@@ -1,8 +1,7 @@
-<h2 align="center"> Hi there, I'm Abhishek Chaurasia 👋</h1>
+<h2 align="center"> Hi there, I'm Abhishek Chaurasia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 </br>
-</br>
-</br>
+
 
 
 # About ME 💬 :
@@ -11,27 +10,30 @@
 - 💻Coding the Real Problems. 
 - 💬 Brainstorm with me over tech, algorithms, problems and music 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/2022.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/hekcha/hekcha/blob/main/assets/2022.gif">
 
-### - Learning :
+### - Proficient in :
 - ✨ Data Structures & Algorithms
-- ✨ Full stack Devloper
+- ✨ Full stack Devlopment
 
 ### - Hobbies : 
 - ✨ Reading Books
 - ✨ Watching Anime
 - ✨ Badminton (Neighbourhood Professional XD)
-
+<br>
+<br>
+<br>
 <h5 align="center"> 📫 How to reach me: </h5>
-<p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/harekrishna_rai"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
-&nbsp; &nbsp; <a href="https://www.instagram.com/_abhi_c_/"> <img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
-<p align="center"> Send Me a messsage 😄 <br> <a href="https://discord.com/harekrishna_rai"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
-&nbsp; &nbsp; <a href="https://www.telegram.com/_abhi_c_/"> <img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
+<p align="center"> Send Me a messsage 😄 <br><br> <a href="https://facebook.com/profile.php?id=100009723558349"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+&nbsp; &nbsp; 
+ <a href="https://www.instagram.com/_abhi_c_/"> <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" > </a> &nbsp; &nbsp; 
+<a href="https://discord.com/Abhishek__"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/#/"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a> </p>
+<br>
+<br>
 <h3 align="center">Technologies & Tools:</h3><br/>
 
-
-
- **Languages and Tools:**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,6 +54,8 @@
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 
+<br>
+<br>
 
 ![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=hekcha&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hekcha&hide=TeX&layout=compact)
