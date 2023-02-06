@@ -29,7 +29,7 @@
  <a href="https://www.instagram.com/_abhi_c_/"> <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" > </a> &nbsp; &nbsp; 
 <a href="https://discord.com/Abhishek__"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/#/"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a> </p>
+  <a href="https://www.linkedin.com/in/hi-abhi/"> <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a> </p>
 <br>
 <br>
 <h3 align="center">Technologies & Tools:</h3><br/>
